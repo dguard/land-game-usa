@@ -1,0 +1,14 @@
+{
+  "name": "land-game-usa",
+  "version": "0.0.1",
+  "description": "Land Game for USA states",
+  "author": "Alexander Serditov",
+  "repository": "https://github.com/dguard/land-game-usa",
+  "keywords": [
+    "land",
+    "usa",
+    "states",
+    "game",
+  ],
+  "license": "MIT"
+}
